@@ -1,6 +1,4 @@
 # novatech-euro2020-scoreboard
-scoreboard
-
 
 Excitement continues to build for this year's European Football Championship as UEFA EURO 2020 will kick off June 11, 2021. ⚽🔥
 What new stories are to be written this year? Millions will be watching the games to see and soak up the atmosphere. 
@@ -27,3 +25,5 @@ So, who are the favourites and dark-horses heading into Euro 2020? Predict the w
 Regards,
 The Organising Team
 UoM Computer Club
+
+Sponsored by my.t and in collaboration with novatech.mu
