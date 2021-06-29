@@ -27,3 +27,6 @@ The Organising Team
 UoM Computer Club
 
 Sponsored by my.t and in collaboration with novatech.mu
+
+Scoreboard: https://scoreboard.novatech.mu
+
