@@ -36,7 +36,17 @@ body{
 
 .navigation-bar img{
 	height: 80px;
-	max-width: 100px;
+}
+
+.logo-two{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.logo-two img{
+	width: 200px;
+	height: 50px;
 }
 
 @media(max-width: 800px){
@@ -47,13 +57,16 @@ body{
 		font-size: 13px;
 		text-align:center;
 	}
-	.navation-bar img{
-		height: 40px;
+	.logo-two h2{
+		font-size: 14px;
 	}
 	.logo{
 		flex-direction: column;
 	}
 	.logo-one{
+		flex-direction: column;
+	}
+	.logo-two{
 		flex-direction: column;
 	}
 	.heading{
