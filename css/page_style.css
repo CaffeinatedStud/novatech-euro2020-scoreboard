@@ -40,7 +40,15 @@ body{
 	justify-content: center;
 }
 
-.navigation-bar img{
+/*.navigation-bar img{
+	height: 80px;
+}*/
+
+.logo-one img {
+	height: 80px;
+}
+
+.logo img{
 	height: 80px;
 }
 
