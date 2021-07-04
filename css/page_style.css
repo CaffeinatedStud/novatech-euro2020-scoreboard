@@ -36,6 +36,7 @@ body{
 
 .navigation-bar img{
 	height: 80px;
+	max-width: 100px;
 }
 
 @media(max-width: 800px){
